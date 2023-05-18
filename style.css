@@ -1,0 +1,32 @@
+* {
+    font-family: Verdana, "Times New Roman", serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: pink;
+}
+
+li {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.titulo {
+    font-size: 48px;
+    color: grey;
+    text-align: center;
+}
+
+#listaRecetas {
+    list-style: none;
+}
+
+.subtitulo {
+    font-size: 28px;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
